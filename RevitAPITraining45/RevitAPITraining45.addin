@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPITraining45.dll"</Assembly>
+		<AddInId>D99C97B1-97B6-48D4-9B30-E3CAC970D147</AddInId>
+		<FullClassName>RevitAPITraining45.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Запись файла ексель</Text>
+	</AddIn>
+</RevitAddIns>
